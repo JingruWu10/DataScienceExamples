@@ -1,0 +1,19 @@
+https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/shuttle/shuttle.tst
+
+http://odds.cs.stonybrook.edu/shuttle-dataset/
+The smallest five classes, i.e. 2, 3, 5, 6, 7 are combined to form the outliers class, while class 1 forms the inlier class. Data for class 4 is discarded.
+
+1. scatter diagram
+	by drawing the scatterplot, we are able to find the outliers, but inliers are usually 
+	hard to identity.
+ 
+2. perform dimensionality reduction
+	for this data set, there are total of 9 attributes, we are going to reduce the 		dimensionality using dimension selection methods such as the filter strategy and 
+	dimension extraction
+
+3. find anomalies
+	there are certain ways to find anomalies,since this is a multi dimensional problem,
+	we could find anomalies using:
+	a. one-class svms
+	b. multivariant Gaussian distribution
+	c. others like KNN

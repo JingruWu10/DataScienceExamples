@@ -1,0 +1,21 @@
+1. Brief description of your data set (age of the data, number of observations and attributes)
+The data set has been created in 1996, with total of 3,974,305 observations and 15 attributes.
+2. At least 1 yes-no or binary-choice question (Is it...? Does it...?)
+The data answers:
+Is there gender discrepancy in low income group/ high income group?
+Is there difference among different native country group when talking about income?
+Do university graduates earn more than high school graduates?
+3. At least 1 non-binary question (What is...? How many...? When does...?)
+What is the relationship between education and income?
+what is the relationship between marital status and income?
+Which age group earns most?
+4. Future improvements to the data set: What other related data could be collected?
+A longer period of data could be used to see the trend of the population. If the median age for a population is getting older? In addition, with a longer period of data, we could analysis if people are moving to other states or countries and predict which state or city will be populated in the next 10 years.  
+5. Source citation for your data set
+This data was extracted from the census bureau database found at
+http://www.census.gov/ftp/pub/DES/www/welcome.html
+Donor: Ronny Kohavi and Barry Becker,
+Data Mining and Visualization
+Silicon Graphics.
+e-mail: ronnyk@sgi.com for questions.
+
